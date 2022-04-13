@@ -33,7 +33,7 @@
   </parent>
 
   <properties>
-    <mondrian-version>8.3.0.21-1159</mondrian-version>
+    <mondrian-version>8.3.0.27-1532</mondrian-version>
     <foodmart-hsqldb-version>1.0.0</foodmart-hsqldb-version>
     <mockito-version>1.10.19</mockito-version>
     <slf4j.version>1.7.30</slf4j.version>
@@ -179,7 +179,7 @@
       </releases>
       <id>pentaho</id>
       <name>Pentaho</name>
-      <url>https://nexus.pentaho.org/repository/proxy-pentaho-public-release-group/</url>
+      <url>https://nexus.pentaho.org/repository/omni/</url>
     </repository>
     <repository>
       <releases>
